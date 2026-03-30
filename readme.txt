@@ -1,4 +1,4 @@
-Podosome Segmentation Code
+Demo data and pretrained model weights for podosome image segmentation.
 
 --------------------------------------------------
 1. Contents
